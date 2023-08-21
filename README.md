@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Raf Indie Game Developer
-- 👀 I’m interested in Video Games!
-- 🌱 I’m currently learning Everything about Video Games
+# Hey there, I'm Leelamp! 👋
 
-<!---
-RafSyghtline/RafSyghtline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Level Designer, Game Designer, and 3D Environment Artist, passionate about creating immersive worlds and captivating gameplay experiences. Welcome to my GitHub profile!
+
+## About Me
+
+- 🎮 Game Enthusiast turned Game Developer.
+- 🎨 3D Environment Artist with an eye for detail.
+- 🌍 Creating virtual worlds through Level Design.
+- 🚀 Exploring the realms of game engines like Unreal, Unity, and Godot.
+
+## Languages and Tools
+
+- HTML, CSS, JavaScript
+- C++, C#
+- Blender 3D
+- Unreal Engine
+- Unity
+- Godot
